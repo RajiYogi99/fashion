@@ -1,0 +1,554 @@
+*
+{
+    margin: 0;
+    border: 0;
+}
+.logo
+{
+    display: inline-block;
+    
+}
+.logo h1
+{
+    position: absolute;
+    font-size: 40px;
+    padding: 5px;
+    margin-left: 60px;
+    color: rgb(134, 49, 190);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo i
+{
+   position: absolute;
+    left: 90%;
+    font-size: 30px;
+    margin-top: 10px;
+}
+.box
+{
+    
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 60px;
+    width: 96%;
+    height: 100%;
+    display: inline-block;
+}
+.purplebox
+{
+    background-color: rgb(77, 57, 150);
+    position: relative;
+    width: 70%;
+    height: 100%;
+    float: right;
+}
+.imgpic
+{
+   background-image: url(/fashion/close-up-photo-inspired-trendy-lady-sparkle-glasses-looking-up-with-mouth-open_197531-7099.jpg);
+   width: 700px;
+   height: 600px;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: 800px 600px;
+   position: relative;
+   margin-top: 80px;
+}
+.about
+{
+    float: right;
+    position: absolute;
+    margin-top: 20%;
+    left: 37%;
+    bottom:20%;
+    background-color: white;
+    height: 450px;
+    width: 500px;
+    color: rgb(77, 57, 150);
+    
+}
+.about>h3
+{
+   position: absolute;
+   font-size: 20px;
+    margin-left: 330px;
+    margin-top: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.about>h1
+{
+    position:absolute;
+    margin-left: 140px;
+    margin-top: 60px;
+    top: 0;
+    font-size: 90px;
+    text-align: right;
+    font-weight: bolder;
+}
+.about>p
+{
+    position:absolute;
+    right: 13%;
+    top: 84%;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.boxes
+{
+   
+    position: absolute;
+    top: 110%;
+    
+    padding: 20px;
+    height: 400px;
+    width: 1400px;
+    left: 0;
+}
+.head
+{
+    position: absolute;
+    left: 0;
+    color: rgb(77, 57, 150);
+    font-size: 40px;
+    width: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.head2
+{
+    position: absolute;
+    right: 0;
+    width: 500px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    bottom: 20%;
+    right: 27%;
+}
+.box3
+{
+    bottom: 0;
+    position: absolute;
+    top: 170%;
+}
+.content
+{
+    width: 400px;
+    height: 800px;
+    background-color:rgb(101, 67, 223);
+    position: absolute;
+    color: white;
+}
+.content>h2
+{
+    margin-top: 200px;
+    font-size: 30px;
+    padding: 30px;
+}
+.content>p
+{
+    font-size: 20px;
+    padding: 30px;
+}
+
+.line1
+{
+    border-bottom: 10px solid white;
+    width: 200px;
+    position: absolute;
+    left: 9%;
+}
+.head3
+{
+    position: absolute;
+    left:240% ;
+    width: 90vh;
+    font-size: 40px;
+    margin-top: 50px;
+    color:rgb(101, 67, 223) ;
+    font-weight: 900;
+}
+.images
+{
+    background-image: url(/fashion/img2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    width: 400px;
+    position: absolute;
+    left: 135%;
+   margin-top: 150px;
+}
+.images>p
+{
+    position: absolute;
+    font-size: 25px;
+    margin-top: 480px;
+}
+.images2
+{
+    background-image: url(/fashion/img3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    width: 350px;
+    position: relative;
+    left: 255%;
+    margin-top: 250px;
+}
+
+.images2>h3
+{
+    position: absolute;
+    font-size: 25px;
+    margin-left: 400px;
+    bottom: 70%;
+    color: rgb(85, 10, 170) ;
+}
+.line2
+{
+    border-bottom: 10px solid rgb(85, 10, 170) ;
+    width: 100px;
+    position: absolute;
+    margin-left: 400px;
+    bottom: 60%;
+}
+.images2>p
+{
+    position: absolute;
+    font-size: 20px;
+    margin-left: 400px;
+    bottom: 25%;
+    color: rgb(85, 10, 170) ;
+    width: 200px;
+}
+.images3
+{
+    display: flex;
+    position: absolute;
+    height: 500px;
+    width: 800px;
+    bottom: 70%;
+    
+}
+.img31
+{
+    background-image: url(/fashion/purple-circle.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50vh;
+    height: 50vh;
+    position: relative;
+    margin-top: 290%;
+    margin-right:60px ;
+    
+}
+.img32
+{
+    background-image: url(/fashion/wepik-2021107-152641.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 500px;
+    height: 500px;
+    position: relative;
+    border-radius: 50%;
+    bottom: 20%;
+    left: 40%;
+    margin-top: 50%;
+}
+.img33
+{
+    background-image: url(/fashion/[CITYPNG.COM]HD\ Purple\ Abstract\ Lines\ Halftone\ Effect\ PNG\ -\ 1258x1258.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50vh;
+    height: 50vh;
+    position: absolute;
+    margin-top: 50%;
+    margin-left:50px ;
+
+}
+.letter
+{
+    background-color: palevioletred;
+    height: 300px;
+    width: 500px;
+    top: 500%;
+    margin-left: 70%;
+    position: absolute;
+    padding: 100px;
+}
+.letter>h1
+{
+    color: white;
+    font-size: 40px;
+    padding: 10px;
+}
+.letter>h3
+{
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+.letter>p
+{
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.letter>h2
+{
+    background-color:white;
+    color: palevioletred;
+    width: 150px;
+    height: 20px;
+    padding: 10px;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.img34
+{
+    background-image: url(/fashion/—Pngtree—purple\ striped\ leaf\ pattern\ cartoon_6642208.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50vh;
+    height: 50vh;
+    position: absolute;
+    left: 130%;
+    top: 540%;
+}
+.pics
+{
+    display: grid;
+    
+    grid-template-columns: repeat(3,526px);
+    grid-template-rows: repeat(3,400px);
+    
+    top: 390%;
+    position: absolute;
+}
+.pics img
+{
+    width: 100%;
+    height: 100%;
+}
+.style
+{
+    grid-row: span 2;
+    
+    
+}
+.pictext
+{
+    background-color: rgb(137, 78, 231);
+    color: white;
+}
+.pictext>h2 ,.pictext>h4
+{
+    margin-top: 50px;
+    margin-left: 50px;
+    font-size: 50px;
+}
+.pictext>i
+{
+    font-size: 50px;
+    margin-top: 40px;
+    margin-left: 50px;
+   
+}
+.pictext1
+{
+   color: white;
+    background-color: palevioletred;
+}
+.pictext1>p
+{
+    
+    font-size: 20px;
+    padding: 50px;
+    line-height: 40px;
+}
+.pictext1>i
+{
+    margin-top: 20px;
+    margin-left: 50px;
+    font-size: 40px;
+    position: relative;
+    
+}
+.aboutus
+{
+    margin-left: 50px;
+    top: 510%;
+    position: absolute;
+    left: 10%;
+}
+.into
+{
+    display: grid;
+    grid-template-columns: repeat(3,300px);
+    
+    grid-column-gap: 80px;
+}
+.into>p
+{
+    grid-row: span 2;
+    width: 350px;
+    font-size: 20px;
+    line-height: 30px;
+   
+   
+}
+.into>h1
+{
+    color: rgb(79, 25, 180);
+    font-size: 50px;
+    width: 100px;
+    position: absolute;
+    margin-top: 25px;
+}
+.into>h3
+{
+    font-size: 20px;
+}
+.button
+{
+    position: absolute;
+    left: 72%;
+    top: 90%;
+    background-color: palevioletred;
+    color: white;
+    padding:  10px 30px;
+    font-size: 20px;
+}
+.boxn
+{
+    position: absolute;
+    top: 550%;
+    background-color: rgb(223, 137, 165);
+    height: 600px;
+    width: 99%;
+    margin: 10px;
+   
+}
+.boxm
+{
+    position: absolute;
+    top: 560%;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 1100px;
+    left: 15%;
+    height: 800px;
+    display: flex;
+    
+}
+.contact
+{
+    margin: 40px;
+    
+}
+.contact>h1
+{
+    font-size: 90px;
+    width: 480px;
+    margin-top: 100px;
+}
+.contact>i
+{
+    font-size: 30px;
+    padding-right: 30px;
+    margin-top: 30px;
+}
+.bar
+{
+    border-bottom: 15px solid palevioletred;
+    width: 420px;
+    margin-top: 30px;
+}
+.contact>h2
+{
+    margin-top: 80px;
+    line-height: 20px;
+    font-size: 30px;
+}
+.imagepa img
+{
+    width: 500px;
+    padding: 20px;
+    height: 400px;
+}
+.imagepa>p
+{
+    width: 480px;
+    padding-left: 30px;
+    line-height: 40px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+.images4
+{
+    display: grid;
+    grid-template-columns: repeat(3,526px);
+    position: absolute;
+    top: 660%;
+}
+.images4 img
+{
+    width: 100%;
+    height: 100%;
+    background-position: center;
+
+}
+.logo1
+{
+    background-color: rebeccapurple;
+    top: 707%;
+    position: absolute;
+    width: 100%;
+    display: flex;
+    height: 200px;
+}
+.logo1 img
+{
+    width: 30px;
+    height: 30px;
+    left: 30%;
+    position:relative;
+    top: 35%;
+    margin: 10px;
+    
+}
+.logo1>h1
+{
+    font-size: 40px;
+    position:relative;
+    top: 35%;
+    margin-left: 80px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo1>p
+{
+    position: relative;
+    top: 35%;
+    left: 20%;
+    font-size: 20px;
+    width: 600px;
+    text-align: center;
+    color: white;
+
+}
+footer
+{
+    top: 734%;
+    position: absolute;
+    background-color: gray;
+    width: 100%;
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+}
