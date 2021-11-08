@@ -44,7 +44,7 @@
 }
 .imgpic
 {
-   background-image: url(/fashion/close-up-photo-inspired-trendy-lady-sparkle-glasses-looking-up-with-mouth-open_197531-7099.jpg);
+   background-image: url(/close-up-photo-inspired-trendy-lady-sparkle-glasses-looking-up-with-mouth-open_197531-7099.jpg);
    width: 700px;
    height: 600px;
    background-repeat: no-repeat;
@@ -168,7 +168,7 @@
 }
 .images
 {
-    background-image: url(/fashion/img2.jpg);
+    background-image: url(/img2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 450px;
@@ -185,7 +185,7 @@
 }
 .images2
 {
-    background-image: url(/fashion/img3.jpg);
+    background-image: url(/img3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 450px;
@@ -231,7 +231,7 @@
 }
 .img31
 {
-    background-image: url(/fashion/purple-circle.png);
+    background-image: url(/purple-circle.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 50vh;
@@ -243,7 +243,7 @@
 }
 .img32
 {
-    background-image: url(/fashion/wepik-2021107-152641.jpg) ;
+    background-image: url(/wepik-2021107-152641.jpg) ;
     background-repeat: no-repeat;
     background-size: cover;
     width: 500px;
@@ -256,7 +256,7 @@
 }
 .img33
 {
-    background-image: url(/fashion/[CITYPNG.COM]HD\ Purple\ Abstract\ Lines\ Halftone\ Effect\ PNG\ -\ 1258x1258.png) ;
+    background-image: url(/[CITYPNG.COM]HD\ Purple\ Abstract\ Lines\ Halftone\ Effect\ PNG\ -\ 1258x1258.png) ;
     background-repeat: no-repeat;
     background-size: cover;
     width: 50vh;
@@ -310,7 +310,7 @@
 }
 .img34
 {
-    background-image: url(/fashion/—Pngtree—purple\ striped\ leaf\ pattern\ cartoon_6642208.png) ;
+    background-image: url(—Pngtree—purple\ striped\ leaf\ pattern\ cartoon_6642208.png) ;
     background-repeat: no-repeat;
     background-size: cover;
     width: 50vh;
@@ -494,7 +494,7 @@
     display: grid;
     grid-template-columns: repeat(3,526px);
     position: absolute;
-    top: 660%;
+    top: 667%;
 }
 .images4 img
 {
@@ -510,7 +510,7 @@
     position: absolute;
     width: 100%;
     display: flex;
-    height: 200px;
+    height: 220px;
 }
 .logo1 img
 {
